@@ -1,0 +1,12 @@
+{
+  "leagues": {
+    "Ligue 1": 61,
+    "Ligue 2": 62,
+    "Premier League": 39,
+    "La Liga": 140,
+    "Bundesliga": 78,
+    "Serie A": 135
+  },
+  "history_seasons_back": 2,
+  "upcoming_days": 7
+}

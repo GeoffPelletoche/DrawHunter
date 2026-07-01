@@ -1,0 +1,9 @@
+{
+  "name": "DrawHunter",
+  "short_name": "DrawHunter",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#0f6bff",
+  "icons": []
+}
